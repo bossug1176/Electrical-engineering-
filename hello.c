@@ -1,14 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello Umesh!");
-    return 0;
-}
-#include <stdio.h>
-
-int main() {
-    printf("Hello Umesh!");
-    printf("\nWelcome to Electrical Engineering");
+    printf("Hello Umesh!\n");
+    printf("Welcome to Electrical Engineering!\n");
+    printf("I am learning C Programming.");
 
     return 0;
 }
